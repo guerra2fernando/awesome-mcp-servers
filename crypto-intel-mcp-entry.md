@@ -1,0 +1,1 @@
+This file is part of a PR to add crypto-intel-mcp to the awesome-mcp-servers list.
